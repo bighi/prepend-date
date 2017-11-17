@@ -11,7 +11,7 @@ Example:
 
 Result:
 
-The file will be called *2017-11-16 this-is-a-filename.txt*
+The file will be called "*2017-11-16 this-is-a-filename.txt*"
 
 ## Dependencies
 
